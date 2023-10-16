@@ -1,0 +1,22 @@
+@model Usuario;
+
+@{
+    ViewData["Title"] = "Contato";
+}
+
+
+<h2>CONTATO</h2>
+
+<form asp-action="Contato" method="post">
+    
+    <label>Nome</label>
+        <input asp-for="nome" type="text" name="nome" placeholder="Digite seu nome" autocomplete="off" size="40" id="inpnome" onclick="validaNome()">
+
+    <label>Email</label>
+        <input asp-for="email" type="email" name="email" placeholder="Digite seu email" autocomplete="off" size="40" id="inpemail" onclick="validaEmail()">
+
+    <label>Mensagem</label>
+        <textarea asp-for="mensagem" cols="30" rows="10" placeholder="Digite sua mensagem" id="inpmensagem" onclick="validaMensagem()"></textarea>
+
+        <button type="submit">Enviar</button>
+</form>

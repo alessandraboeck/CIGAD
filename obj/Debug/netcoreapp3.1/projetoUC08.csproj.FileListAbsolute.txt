@@ -1,0 +1,88 @@
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.exe
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.deps.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.runtimeconfig.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.runtimeconfig.dev.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.Views.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\projetoUC08.Views.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.csprojAssemblyReference.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.AssemblyInfoInputs.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.AssemblyInfo.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.csproj.CoreCompileInputs.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.RazorAssemblyInfo.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.RazorAssemblyInfo.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.TagHelpers.input.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.TagHelpers.output.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.RazorCoreGenerate.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.RazorTargetAssemblyInfo.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.RazorTargetAssemblyInfo.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.Views.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\staticwebassets\projetoUC08.StaticWebAssets.Manifest.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\staticwebassets\projetoUC08.StaticWebAssets.xml
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.genruntimeconfig.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\projetoUC08.csproj.CopyComplete
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Home\Entreterimento.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noticias.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\UC08\projetoUC08\bin\Debug\netcoreapp3.1\MySQLConnection.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.exe
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.deps.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.runtimeconfig.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.runtimeconfig.dev.json
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.Views.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\projetoUC08.Views.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\MySQLConnection.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.csprojAssemblyReference.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.AssemblyInfoInputs.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.AssemblyInfo.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.csproj.CoreCompileInputs.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.RazorAssemblyInfo.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.RazorAssemblyInfo.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.TagHelpers.input.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.TagHelpers.output.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.RazorCoreGenerate.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Entreterimento.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noticias.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.RazorTargetAssemblyInfo.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.RazorTargetAssemblyInfo.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.Views.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.csproj.CopyComplete
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\staticwebassets\projetoUC08.StaticWebAssets.Manifest.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\staticwebassets\projetoUC08.StaticWebAssets.xml
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.dll
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.pdb
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\projetoUC08.genruntimeconfig.cache
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\brinquedos.cshtml.g.cs
+C:\Users\graci\Desktop\PROJETOS CURSO TI\MODULO 1\UC08\projeto08(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Noticia\brinquedos.cshtml.g.cs
